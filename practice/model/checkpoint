@@ -1,0 +1,2 @@
+model_checkpoint_path: "assign_a_ckpt"
+all_model_checkpoint_paths: "assign_a_ckpt"
